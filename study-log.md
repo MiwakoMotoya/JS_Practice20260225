@@ -48,3 +48,16 @@
 - 関数で計算するコードを作成
 - node day8.js を実行して結果を確認
 
+
+## Day9
+
+JavaScriptの関数に引数を渡す方法を学習。
+関数に数字を渡すと、その数字を使って処理ができることを理解。
+
+例：
+function double(num) {
+  console.log(num * 2);
+}
+
+double(5);
+
