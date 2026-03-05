@@ -13,7 +13,7 @@ JavaScript基礎学習の記録リポジトリです。
 - Day7 入力処理
 - Day8 計算処理
 - Day9 JavaScript理解の整理
-- Day10 double function
+- Day10 関数を使った計算処理
 
 ## 学習ログ
 

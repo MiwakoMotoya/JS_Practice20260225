@@ -62,6 +62,7 @@ function double(num) {
 double(5);
 
 
+
 ## Day10
-double function を学習。
-関数に数字を渡すと、その数を使って計算できることを理解。
+関数を使った計算処理を学習。
+引数を受け取り、returnで結果を返す関数を作成。
