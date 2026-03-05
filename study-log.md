@@ -61,3 +61,7 @@ function double(num) {
 
 double(5);
 
+
+## Day10
+double function を学習。
+関数に数字を渡すと、その数を使って計算できることを理解。
