@@ -28,3 +28,20 @@ Node.jsで実行できます。
 例：
 node day1.js
 node day2.js
+
+
+## サンプルコード
+
+Day11で作成した関数（Day11/day11.js）
+
+```javascript
+function double(num) {
+  return num * 2;
+}
+
+function triple(num) {
+  return num * 3;
+}
+
+console.log(double(5));
+console.log(triple(5));
